@@ -1,0 +1,12 @@
+.abao{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+.central{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

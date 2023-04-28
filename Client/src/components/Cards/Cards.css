@@ -1,0 +1,19 @@
+.targts{
+
+    height: auto;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenetitu{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+
+.img{
+    width: 220px;
+    height: 220px;
+}

@@ -1,0 +1,17 @@
+.contenepadre{
+    width: auto;
+    height: auto;
+    padding: 7%;
+    display: flex;
+    justify-content: center;
+}
+
+.imgdetail{
+    border-radius: 10%;
+}
+.info{
+    background-color: rgba(240, 248, 255, 0.541);
+    border-radius: 15%;
+    text-align: center;
+    margin-left: 10%;
+}

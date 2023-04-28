@@ -1,0 +1,11 @@
+.App {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   width: auto;
+   height: auto;
+   background-image: url(https://i.pinimg.com/originals/4e/a7/fb/4ea7fb833c63a4ea0b0fb696c5919dd7.png);
+   background-size: contain;
+   background-attachment: fixed;
+   min-height: 100vh;
+}

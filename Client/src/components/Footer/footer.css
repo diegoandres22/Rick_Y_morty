@@ -1,0 +1,10 @@
+footer {
+    color: aliceblue;
+    position: sticky;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    width: 90vw;
+    justify-content: center;
+    top: 95vh;
+}
