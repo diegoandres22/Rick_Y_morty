@@ -49,10 +49,6 @@ function App() {
       }
    };
 
-
-
-
-
    const onClose = (id) => {
       const chafil = characters.filter((character) =>
          character.id !== id)
